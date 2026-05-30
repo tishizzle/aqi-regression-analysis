@@ -48,7 +48,3 @@ This project analyzes Air Quality Index (AQI) data to identify factors influenci
 - Data Visualization
 - Model Interpretation
 
-## Author
-
-Ritika Patel
-M.Sc. Statistics, MIT World Peace University
